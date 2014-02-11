@@ -59,13 +59,15 @@ public abstract class API<S, T> {
 
             int statusCode = response.getStatusLine().getStatusCode();
             LOGGER.debug("RESPONSE CODE : " + statusCode);
-            if (statusCode == HttpStatus.SC_OK || statusCode == HttpStatus.SC_NO_CONTENT) {
+            if (statusCode == HttpStatus.SC_OK) {
                 ObjectMapper mapper = new ObjectMapper();
                 mapper.setSerializationInclusion(Include.NON_NULL);
                 String entity = EntityUtils.toString(response.getEntity());
                 ParameterizedType type = (ParameterizedType) getClass().getGenericSuperclass();
                 returnValue = (T) mapper.readValue(entity,
                         mapper.getTypeFactory().constructType(type.getActualTypeArguments()[1]));
+            } else if (statusCode == HttpStatus.SC_NO_CONTENT) {
+                // do nothing.
             } else if (statusCode == HttpStatus.SC_BAD_REQUEST) {
                 String reason = response.getStatusLine().getReasonPhrase();
                 throw new APIException("001", "リクエストパラメータに不正な値が検出されました", statusCode, reason);

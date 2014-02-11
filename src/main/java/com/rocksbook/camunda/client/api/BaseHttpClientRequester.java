@@ -59,11 +59,18 @@ public abstract class BaseHttpClientRequester implements APIRequester<CloseableH
                     String entityString = mapper.writeValueAsString(context.getEntity());
                     requestBuilder.setEntity(new StringEntity(entityString));
                 } else if (method == APIContext.HttpMethod.DELETE) {
-                    
+                    requestBuilder = RequestBuilder.delete();
+                    if (!context.getQueryParams().isEmpty()) {
+                        List<NameValuePair> parameters = new ArrayList<NameValuePair>();
+                        for (Map.Entry<String, String> entry : context.getQueryParams().entrySet()) {
+                            uriBuilder.addParameter(entry.getKey(), entry.getValue());
+                        }
+                        uriBuilder.addParameters(parameters);
+                    }
                 }
                 URI requestUri = uriBuilder.build();
                 if (LOGGER.isDebugEnabled()) {
-                    LOGGER.debug("Request URL : " + requestUri);
+                    LOGGER.debug("Request : " + context.getMethod().toString() + "  " + requestUri);
                 }
                 requestBuilder.setUri(uriBuilder.build());
                 requestBuilder.addHeader("Content-Type", ContentType.APPLICATION_JSON.getMimeType());

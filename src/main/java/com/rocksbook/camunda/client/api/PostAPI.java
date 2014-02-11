@@ -38,4 +38,7 @@ public abstract class PostAPI<S, T> extends API<S, T> {
 	
 	protected abstract String getContextPath();
 
+	public void addEntity(String name, Object value) {
+	    this.entity.put(name, value);
+	}
 }
