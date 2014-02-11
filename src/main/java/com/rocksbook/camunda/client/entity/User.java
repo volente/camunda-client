@@ -1,4 +1,4 @@
-package com.rocksbook.camunda.client.api.entity;
+package com.rocksbook.camunda.client.entity;
 
 import lombok.Getter;
 import lombok.Setter;

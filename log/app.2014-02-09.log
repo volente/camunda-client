@@ -1,0 +1,123 @@
+2014/02/09 00:08:01:438 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:08:01:847 INFO - PostAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:10:13:360 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:10:13:805 INFO - PostAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:11:03:021 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:11:03:349 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:11:03:356 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:12:38:802 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:12:39:146 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:12:39:151 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:15:39:101 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:15:39:640 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:15:39:646 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:15:57:010 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:15:57:360 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:15:57:366 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:16:05:039 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:17:24:324 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:17:24:335 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:21:15:227 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:21:16:850 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:21:16:856 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:26:29:414 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:26:29:947 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:26:29:952 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:33:31:886 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:33:32:327 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:33:32:333 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:33:53:286 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:33:54:883 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:33:54:889 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:35:54:459 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:35:54:573 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:35:56:824 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:35:56:830 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:35:56:831 DEBUG - API.execute RESPONSE STATUS : 405
+2014/02/09 00:36:57:216 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:36:57:327 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:36:59:107 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 00:37:00:490 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 00:37:00:491 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:44:00:324 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:44:00:492 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:44:02:311 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 00:44:02:376 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 00:44:02:376 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:44:04:393 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/defaultprocess-instance
+2014/02/09 00:44:04:398 DEBUG - API.execute RESPONSE STATUS : 404
+2014/02/09 00:45:07:759 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:45:07:867 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:45:08:136 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 00:45:08:195 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 00:45:08:196 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:45:08:258 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 00:45:08:383 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:46:27:287 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:46:27:403 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:46:27:641 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 00:46:27:796 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 00:46:27:797 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:46:27:813 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 00:46:27:823 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:47:10:017 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:47:10:129 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:47:10:366 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 00:47:10:396 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 00:47:10:397 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:47:10:411 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 00:47:10:418 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:56:26:736 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 00:56:26:961 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:56:33:039 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 00:56:33:068 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 00:56:33:069 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 00:57:19:655 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 00:57:19:667 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:04:06:303 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:04:06:496 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:04:56:747 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:04:56:869 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:14:19:143 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:14:19:345 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:18:09:859 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:18:10:026 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:20:25:117 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:20:25:267 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:20:43:596 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:20:43:698 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:23:41:718 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:23:41:956 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:24:21:454 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:24:21:593 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:25:00:455 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:25:00:559 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:25:58:303 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:25:58:417 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:26:33:765 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:26:33:868 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:26:51:548 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:26:51:657 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:27:51:024 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:27:51:131 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 01:28:25:312 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 01:28:25:423 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 22:35:26:524 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 22:35:26:777 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 22:35:27:192 INFO - PostAPI.doExecute REQUEST START : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 22:35:27:215 INFO - PostAPI.doExecute REQUEST END : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf/start
+2014/02/09 22:35:27:215 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 22:35:27:245 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-instance
+2014/02/09 22:35:27:255 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 22:37:58:442 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition/calledProcess:1:404a04f4-8f38-11e3-9e79-109add445dbf
+2014/02/09 22:38:15:523 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 22:50:35:605 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition
+2014/02/09 22:50:35:735 DEBUG - API.execute RESPONSE STATUS : 401
+2014/02/09 22:51:03:013 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition
+2014/02/09 22:51:03:240 DEBUG - API.execute RESPONSE STATUS : 200
+2014/02/09 23:17:10:241 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition
+2014/02/09 23:20:05:050 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition
+2014/02/09 23:20:05:169 DEBUG - API.execute RESPONSE CODE : 401
+2014/02/09 23:58:31:295 INFO - GetAPI.doExecute REQUEST : http://localhost:8080/engine-rest/engine/default/process-definition
+2014/02/09 23:58:31:519 DEBUG - API.execute RESPONSE CODE : 200
+2014/02/09 23:58:31:716 DEBUG - API.execute RESPONSE STATUS : 200

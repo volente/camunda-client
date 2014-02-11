@@ -1,5 +1,5 @@
 package com.rocksbook.camunda.client;
 
-public class PostAPI {
+public abstract class UserClient  {
 
 }
